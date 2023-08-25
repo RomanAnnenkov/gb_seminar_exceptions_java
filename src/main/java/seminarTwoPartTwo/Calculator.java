@@ -1,4 +1,4 @@
-package seminarTwo_part2;
+package seminarTwoPartTwo;
 
 public class Calculator {
     public static double divide(int dividend, int divisor) throws DivisionException {

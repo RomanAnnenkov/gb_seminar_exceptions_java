@@ -1,4 +1,4 @@
-package seminarTwo_part2;
+package seminarTwoPartTwo;
 
 public class DivisionException extends Exception {
     private int dividend;
